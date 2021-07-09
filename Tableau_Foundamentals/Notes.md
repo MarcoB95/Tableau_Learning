@@ -22,3 +22,4 @@ Tableau automatically predicts whether your fields are dimensions or measures, b
 
 ### Creating Groups in Your Data
 
+A group lets you combine several members of a single dimension into a single data point or category type, creating a new dimension field that didn’t originally exist in your data.
