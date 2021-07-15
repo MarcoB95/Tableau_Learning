@@ -22,4 +22,10 @@ Tableau automatically predicts whether your fields are dimensions or measures, b
 
 ### Creating Groups in Your Data
 
-A group lets you combine several members of a single dimension into a single data point or category type, creating a new dimension field that didn’t originally exist in your data.
+A group lets you combine several members of a single dimension into a single data point or category type, creating a new dimension field that didn’t originally exist in your data (Groups in Tableau are represented by a paper clip). Groups can be created using each of the following methods:
+
+- Create a group based on a field in the Data pane
+- Create a group based on labels in the view
+- Create a group based on marks in the view
+
+Once a group as been created within the Create Group dialog, you can check Include 'Other' to group all remaining members into a group. The group will be assigned the name Other and can be renamed as needed.
